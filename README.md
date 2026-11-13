@@ -4,7 +4,7 @@ Site de ressources pédagogiques de **M. Bakary TRAORE**, Université de N’Zé
 
 ## Site du cours
 
-https://btraore850.github.io/cours-algebre-l1-chimie/ (après activation de GitHub Pages)
+[Lien d'accès à la plateforme pédagogique](https://ibrahimabakayoko271982-tech.github.io/Algebre3-/) (après activation de GitHub Pages)
 
 ## Programme du cours
 
